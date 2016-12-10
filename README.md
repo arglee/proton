@@ -1,2 +1,2 @@
 # proton
-Datashop automation Dashboard using flask
+Server automation tool.
